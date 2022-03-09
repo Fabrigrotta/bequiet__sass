@@ -1,0 +1,90 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Prompt', sans-serif;
+}
+
+// NAV
+.navbar-nav {
+    font-size: 20px;
+}
+
+// Footer
+footer {
+    background-color: $bgColor__repeat4;
+    color: $bgColor__repeat5;
+    padding: 0px;
+    margin: 0px;
+}
+
+// Index
+.iconCitaciones {
+    width: 20%;
+    position: relative;
+    left: 130px;
+}
+
+// Background colors
+.divRegistro {
+    background-color: $bgColor__index1;
+}
+
+.divVT {
+    background-color: $bgColor__index2;
+}
+
+.divCitaciones {
+    background-color: $bgColor__repeat;
+}
+
+// Fonts
+.info__titulosU {
+    font-size: 35px;
+    font-weight: 900;
+    padding-top: 20px;
+}
+
+.info__titulosD {
+    font-size: 35px;
+    font-weight: 900;
+}
+
+.info__texto {
+    font-size: 20px;
+    font-weight: 100;
+    padding: 50px;
+}
+
+.info__tituloVT {
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+    font-size: 40px;
+    font-weight: 700;
+    padding: 20px;
+}
+
+.destacados__titulo {
+    font-size: 35px;
+    font-weight: 900;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.destacados__texto {
+    font-size: 20px;
+    font-weight: 100;
+    padding: 50px;
+}
+
+.titulo__citaciones {
+    font-size: 70px;
+    font-weight: 900;
+}
+
+.texto__citaciones {
+    font-size: 20px;
+    font-weight: 100;
+    padding: 50px;
+}
+

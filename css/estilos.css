@@ -1,0 +1,116 @@
+.btn {
+  background-color: #000000; }
+
+.botones {
+  padding-bottom: 30px; }
+
+.botonEnviar {
+  padding-bottom: 30px; }
+
+.compras {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.talle {
+  padding: 0px 50px; }
+
+.carrito {
+  padding: 0px 50px; }
+
+.headerIndex {
+  background-image: url(../assets/img/bgIndex.png);
+  height: 950px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0px; }
+
+.divMarca {
+  background-image: url(../assets/img/bgNosotros.jpg);
+  height: 950px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0px; }
+
+.bgNosotros {
+  background-image: url(../assets/img/bgNosotros1.jpg);
+  height: 742px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0px; }
+
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Prompt', sans-serif; }
+
+.navbar-nav {
+  font-size: 20px; }
+
+footer {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 0px;
+  margin: 0px; }
+
+.iconCitaciones {
+  width: 20%;
+  position: relative;
+  left: 130px; }
+
+.divRegistro {
+  background-color: #A8D8EA; }
+
+.divVT {
+  background-color: #AA96DA; }
+
+.divCitaciones {
+  background-color: #7771E0; }
+
+.info__titulosU {
+  font-size: 35px;
+  font-weight: 900;
+  padding-top: 20px; }
+
+.info__titulosD {
+  font-size: 35px;
+  font-weight: 900; }
+
+.info__texto {
+  font-size: 20px;
+  font-weight: 100;
+  padding: 50px; }
+
+.info__tituloVT {
+  writing-mode: vertical-lr;
+  transform: rotate(180deg);
+  font-size: 40px;
+  font-weight: 700;
+  padding: 20px; }
+
+.destacados__titulo {
+  font-size: 35px;
+  font-weight: 900;
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-right: 30px; }
+
+.destacados__texto {
+  font-size: 20px;
+  font-weight: 100;
+  padding: 50px; }
+
+.titulo__citaciones {
+  font-size: 70px;
+  font-weight: 900; }
+
+.texto__citaciones {
+  font-size: 20px;
+  font-weight: 100;
+  padding: 50px; }
